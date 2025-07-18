@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Premain-Class: io.github.alpayciftci.plugin.ThreadSafeAgent
+Main-Class: io.github.alpayciftci.plugin.Main
+Created-By: 23.0.2 (Oracle Corporation)
+
